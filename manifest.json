@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Task Timer",
+  "version": "1.0",
+  "description": "Helps you to set time for specific task",
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "action": {
+    "default_icon": "icon.png",
+    "default_title": "Task Timer",
+    "default_popup": "popup/popup.html"
+  }
+}
